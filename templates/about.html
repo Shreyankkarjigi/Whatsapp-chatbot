@@ -1,0 +1,109 @@
+{% extends 'layout.html' %}
+{%block content%}
+<head>
+<style>
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.column {
+
+  width: 33.3%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+ margin-right:auto;
+    margin-left:auto;
+      position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 80px;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin: 8px;
+  float:center;
+     border: 10px solid white;
+  border-radius:25px;
+
+
+}
+
+.about-section {
+  padding: 10px;
+  text-align: center;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 80px;
+      border: 2px solid black;
+  border-radius:15px;
+ 
+    
+
+background-color: #000000;
+background-image: linear-gradient(147deg, #000000 0%, #434343 74%);
+  color: white;
+}
+
+.container5 {
+  padding: 0 16px;
+    position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 80px;
+}
+
+.container5::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+    position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 80px;
+}
+
+.title {
+  color: grey;
+}
+@media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+     border: 2px solid black;
+  border-radius:15px;
+  }
+}
+</style>
+
+ <div class="about-section">
+  <h1>About Developer</h1>
+
+</div>
+
+<br>
+<br>
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="{{url_for('static', filename='image68.png')}}" alt="pic" style="width:50%;height:50%;display:block;margin-left:auto;margin-right:auto;padding-top:10px;  position: -webkit-sticky;  position: sticky;">
+      <div class="container5">
+       <h3 align="center"><font size="5px"><font color="black">GitHub/ShreyankKarjigi</font></h3>
+       <p align="center"><font color="black">androgeek123@gmail.com</p></font>
+        <p align="center"><font color="black">"Aspire to be a python developer someday"</p></font>
+        <p align="center"><font color="black">Webpage built on flask framework</p></font>
+       
+        <!-- Place this tag where you want the button to render. -->
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="github-button" href="https://github.com/Shreyankkarjigi" data-size="large" aria-label="Follow shreyank on GitHub">Follow@shreyank</a>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/login?return_to=%2FShreyankkarjigi%2FWhatsapp-chatbot" data-size="large" aria-label="Fork shreyank/github-buttons on GitHub">Fork</a>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/Shreyankkarjigi/Whatsapp-chatbot/archive/master.zip" data-size="large" aria-label="Download shreyank/github-buttons on GitHub">Download</a>
+<!-- Place this tag where you want the button to render. -->
+
+      </div>
+    </div>
+  </div> 
+{%endblock%}
