@@ -1,0 +1,68 @@
+{
+  "id": "b276f9fc-f564-4a0d-84e2-cb920081b712",
+  "parentId": "41a428db-9555-4562-8f6e-3fe9cfb16242",
+  "rootParentId": "41a428db-9555-4562-8f6e-3fe9cfb16242",
+  "name": "hospitals 4",
+  "auto": true,
+  "contexts": [
+    "hospitals-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "hospitals.hospitals-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ab1b18a9-eae2-4d1b-8801-32172854a5a3",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "8ed4236b-3442-471c-8402-259a58f7f225",
+          "name": "geo-state",
+          "required": false,
+          "dataType": "@sys.geo-state",
+          "value": "$geo-state",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Assam (Helpline- 6913347770)\n\n\ta) 5 AFH\t\n\tb) MMCH\n\tc) Assam Medical College and Hospital\n\td) R N B Civil Hospital \t\n\te) SKK CIVIL HOSPITAL"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

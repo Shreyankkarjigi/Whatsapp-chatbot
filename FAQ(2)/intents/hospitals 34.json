@@ -1,0 +1,54 @@
+{
+  "id": "fe08ee7f-d7a2-4a9a-8cd6-95fc0819798c",
+  "parentId": "41a428db-9555-4562-8f6e-3fe9cfb16242",
+  "rootParentId": "41a428db-9555-4562-8f6e-3fe9cfb16242",
+  "name": "hospitals 34",
+  "auto": true,
+  "contexts": [
+    "hospitals-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "hospitals.hospitals-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d549b155-6faa-4ee9-8f61-374c58e9e77e",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Uttar Pradesh (Helpline- 18001805145)\n\n\ta) V.I.I.T. Hospital\t\n\tb) Varunarjun Medical College\t\n\tc) Sparsh Hospital\t\n\td) Sant Marry Hospital\t\n\te) KMC Digital"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,54 @@
+{
+  "id": "94ddc759-b924-49c6-affc-9f205d87a9df",
+  "parentId": "41a428db-9555-4562-8f6e-3fe9cfb16242",
+  "rootParentId": "41a428db-9555-4562-8f6e-3fe9cfb16242",
+  "name": "hospitals 13",
+  "auto": true,
+  "contexts": [
+    "hospitals-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "hospitals.hospitals-custom-3",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "baa64e0e-a957-499b-90d7-b12849669598",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Himachal Pradesh  (Helpline- 104)\n\n\ta) District Ayurvedic Hospital, Batu\n\tb) Water Sports Complex, Pongdam\n\tc) MMMCH Kumarhatti\n\td) DDUH Shimla\n\te) ZH Dharamshala"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

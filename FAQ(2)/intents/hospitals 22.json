@@ -1,0 +1,68 @@
+{
+  "id": "f6ef508b-b58c-4e89-93cc-c6720d77f9dd",
+  "parentId": "41a428db-9555-4562-8f6e-3fe9cfb16242",
+  "rootParentId": "41a428db-9555-4562-8f6e-3fe9cfb16242",
+  "name": "hospitals 22",
+  "auto": true,
+  "contexts": [
+    "hospitals-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "hospitals.hospitals-custom-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6be95c8e-a280-468a-b375-fb0618de915b",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "8a465530-d051-4804-9225-867141e3f3c1",
+          "name": "geo-state",
+          "required": false,
+          "dataType": "@sys.geo-state",
+          "value": "$geo-state",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Meghalaya  (Helpline- 108)\n\n\ta) Bethany Hospital\t\n\tb) BSF Composite Hospital"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

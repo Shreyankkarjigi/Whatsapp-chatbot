@@ -1,0 +1,39 @@
+{
+  "id": "75e7dc27-41b2-49c2-9cc4-ede9eafcb1d4",
+  "parentId": "d444a6f2-50fe-4099-8ea0-9c883b33731a",
+  "rootParentId": "393e83ae-ba4a-42e6-b9e4-e8b3156390ba",
+  "name": "binocpnovm - no",
+  "auto": true,
+  "contexts": [
+    "binocpnovm-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Amill.Amill-yes.Amill-yes-yes.Amill-yes-yes-yes.cough-yes-askforbodyache-yes.fever-yes-cough-yes-bodyache-yes-viral-askfortastesmell-yes.fvryscogbdysvtsyesbi-no.binocp-no.binocpnovm-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Looks like it\u0027s normal viral,you\u0027ll be fine soon."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

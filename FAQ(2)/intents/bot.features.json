@@ -1,0 +1,44 @@
+{
+  "id": "c9e7ea7d-59ba-45a7-bf52-26d97364cd7e",
+  "name": "bot.features",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "bot.features",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I can answer some of the famous myths surrounding Covid 19 pandemic.Just reply me with \"Show me\" to get started.",
+            "I can clear your myths about Covid 19 so that you don\u0027t drink bleach in order to kill the virus :). Just reply me with \"Show me\" to get started."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "slack": true,
+        "telegram": true,
+        "kik": true,
+        "viber": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

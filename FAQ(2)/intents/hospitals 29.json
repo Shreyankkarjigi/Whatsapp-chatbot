@@ -1,0 +1,54 @@
+{
+  "id": "a25c0cf0-3f1d-416c-bea6-fa40bdd6c897",
+  "parentId": "41a428db-9555-4562-8f6e-3fe9cfb16242",
+  "rootParentId": "41a428db-9555-4562-8f6e-3fe9cfb16242",
+  "name": "hospitals 29",
+  "auto": true,
+  "contexts": [
+    "hospitals-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "hospitals.hospitals-custom-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "01728997-6561-4634-9be6-29a9d4b8ed4c",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sikkim  (Helpline- 104)\n\n\ta) SNTM Hospital\t\n\tb) CRH\n\tc) Ayush Hospital Gylashing\t\n\td) Mangan District hospital\t\n\te) District hospital Gylanshing"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

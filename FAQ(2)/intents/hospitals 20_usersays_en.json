@@ -1,0 +1,32 @@
+[
+  {
+    "id": "75c4e422-0752-4119-8fd3-92565d9d0746",
+    "data": [
+      {
+        "text": "Maharashtra",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d56e6dd8-c458-4540-8fb4-43b4bee20fb7",
+    "data": [
+      {
+        "text": "20",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

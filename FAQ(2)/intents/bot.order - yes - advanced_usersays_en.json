@@ -1,0 +1,115 @@
+[
+  {
+    "id": "2ca1e28c-d665-4968-8f7d-27bbc6488332",
+    "data": [
+      {
+        "text": "advanced, several bots",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dfc21eb9-e0c1-4ee9-90f3-cab8c26af834",
+    "data": [
+      {
+        "text": "I build bots every day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "caa0072b-322e-4c4a-98a2-4cb65524f73c",
+    "data": [
+      {
+        "text": "I\u0027ve built ",
+        "userDefined": false
+      },
+      {
+        "text": "100",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "+ bots",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61a61c67-3666-487a-bfcc-550273b3dce0",
+    "data": [
+      {
+        "text": "that\u0027s how I earn money",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "03150b87-b276-4f58-b0ce-d80937fe0008",
+    "data": [
+      {
+        "text": "I do it for life",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2e0975d-e2ab-4b68-8510-b7981653b23d",
+    "data": [
+      {
+        "text": "I\u0027m a professional bot builder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9c43193-7550-4f09-976d-25c3cf396e80",
+    "data": [
+      {
+        "text": "it\u0027s my job",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "482e6a06-b577-45f3-8299-2ed12031fcd5",
+    "data": [
+      {
+        "text": "advanced",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

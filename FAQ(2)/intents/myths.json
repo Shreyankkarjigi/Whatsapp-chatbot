@@ -1,0 +1,35 @@
+{
+  "id": "c42121df-159f-4368-9d9e-7bc698e5495c",
+  "name": "myths",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here are some of the famous Myths behind Covid 19 pandemic:\n\n1.Adding pepper to your soup or other meals *DOES NOT prevent* or cure COVID-19.\n\n2.COVID-19 *IS NOT* transmitted through houseflies\n\n3.Spraying and introducing bleach or another disinfectant into your body *WILL NOT* protect you against COVID-19 and can be dangerous.\n\n4.Drinking methanol, ethanol or bleach *DOES NOT* prevent or cure COVID-19 and can be extremely dangerous.(Not kidding some have actually done it.)\n\n5.You can recover from the coronavirus disease (COVID-19). Catching the new coronavirus *DOES NOT* mean you will have it for life.\n\n6.COVID-19 virus *can be transmitted* in areas with hot and humid climates.\n\n7.Cold weather and snow *CANNOT* kill the new coronavirus.\n\n8.Taking a hot bath *does not prevent* the new coronavirus disease.\n\n\n\n\n\nTo go back to main menu reply with *menu*.\n\nTo stop the bot reply with *stop*."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

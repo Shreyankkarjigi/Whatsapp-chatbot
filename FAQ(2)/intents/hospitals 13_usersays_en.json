@@ -1,0 +1,30 @@
+[
+  {
+    "id": "21680250-e40c-4410-8563-bbad9dd5b7e9",
+    "data": [
+      {
+        "text": "Himachal Pradesh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5038b497-007f-4ae2-a121-0c10c6930ab1",
+    "data": [
+      {
+        "text": "13",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

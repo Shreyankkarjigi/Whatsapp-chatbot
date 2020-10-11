@@ -1,0 +1,32 @@
+[
+  {
+    "id": "34906b6d-976a-41d8-b4f1-f25ceab49234",
+    "data": [
+      {
+        "text": "Jharkhand",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6566a916-75f6-4f3b-a8fb-4b8277303570",
+    "data": [
+      {
+        "text": "15",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "id": "59d9b428-0f8d-4f1c-97f5-8ccfde150377",
+  "parentId": "9413304e-cb48-4b99-9076-0edc7a896ce9",
+  "rootParentId": "393e83ae-ba4a-42e6-b9e4-e8b3156390ba",
+  "name": "fvryscysbysvitsysbiyscp",
+  "auto": true,
+  "contexts": [
+    "fever-yes-cough-yes-bodyache-yes-viral-tastesmell-yes-askforbreathing-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Amill.Amill-yes.Amill-yes-yes.Amill-yes-yes-yes.cough-yes-askforbodyache-yes.fever-yes-cough-yes-bodyache-yes-viral-askfortastesmell-yes.fever-yes-cough-yes-bodyache-yes-viral-tastesmell-yes-askforbreathing-yes",
+      "affectedContexts": [
+        {
+          "name": "fever-yes-cough-yes-bodyache-yes-viral-tastesmell-breathing-yes-askchestpain-followup",
+          "lifespan": 2
+        },
+        {
+          "name": "fever-yes-cough-yes-bach-yes-vi-ts-yes-bi-yes-askchestpain-followup",
+          "lifespan": 2
+        },
+        {
+          "name": "fvryscysbysvitsysbiyscp-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Do you have chest pain?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

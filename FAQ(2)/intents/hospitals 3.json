@@ -1,0 +1,54 @@
+{
+  "id": "720236a7-b892-4a8f-b89e-5fc655e587d2",
+  "parentId": "41a428db-9555-4562-8f6e-3fe9cfb16242",
+  "rootParentId": "41a428db-9555-4562-8f6e-3fe9cfb16242",
+  "name": "hospitals 3",
+  "auto": true,
+  "contexts": [
+    "hospitals-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "hospitals.hospitals-custom-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a75bffe0-66e1-4ed2-928c-550f03dd700e",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Arunachal Pradesh (Helpline- 9436055743)\n\n\ta) Ramakrishna Mission Hospital\t\n\tb) Tomo Riba Institute Of Health And Medical Sciences\n\tc) Dr Lal PathLabs\n\td) Govt Civil Hospital, Chongkham\t\n\te) Military Hospital"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

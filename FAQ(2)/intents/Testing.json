@@ -1,0 +1,35 @@
+{
+  "id": "0443e002-6974-4cfc-8b53-77d8961959a9",
+  "name": "Testing",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "For list of testing centers visit: https://drive.google.com/drive/folders/14Sd1lHBETiOYMWbT6h8nW5kAYJ79UfVN?usp\u003dsharing"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

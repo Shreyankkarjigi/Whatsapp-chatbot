@@ -1,0 +1,30 @@
+[
+  {
+    "id": "da6ddf39-763a-400d-98e9-2ac567a18dcc",
+    "data": [
+      {
+        "text": "Ladakh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a8caf7d-0e96-4a00-9ec7-439eac576d81",
+    "data": [
+      {
+        "text": "18",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

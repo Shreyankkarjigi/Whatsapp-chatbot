@@ -1,0 +1,30 @@
+[
+  {
+    "id": "fa16b735-c0eb-4b06-8841-8706335fde51",
+    "data": [
+      {
+        "text": "Mizoram",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ef269d7-24cf-4c51-aab2-b79d2c000fbc",
+    "data": [
+      {
+        "text": "23",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

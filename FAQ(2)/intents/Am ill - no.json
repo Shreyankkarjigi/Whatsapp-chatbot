@@ -1,0 +1,39 @@
+{
+  "id": "e59f99fc-193a-413c-8230-6b298330ed41",
+  "parentId": "393e83ae-ba4a-42e6-b9e4-e8b3156390ba",
+  "rootParentId": "393e83ae-ba4a-42e6-b9e4-e8b3156390ba",
+  "name": "Am ill - no",
+  "auto": true,
+  "contexts": [
+    "Amill-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Amill.Amill-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay! Feel free to hit me up again."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

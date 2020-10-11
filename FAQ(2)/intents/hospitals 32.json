@@ -1,0 +1,54 @@
+{
+  "id": "79e18813-81ca-464c-8e71-efbba1829d54",
+  "parentId": "41a428db-9555-4562-8f6e-3fe9cfb16242",
+  "rootParentId": "41a428db-9555-4562-8f6e-3fe9cfb16242",
+  "name": "hospitals 32",
+  "auto": true,
+  "contexts": [
+    "hospitals-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "hospitals.hospitals-custom-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e2a8a9ea-0697-495f-8662-75a85e53df4a",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Tripura \n\n\ta) Dhalaii District Hospital,Kulai\t\n\tb) Agartala Hospital \u0026 Research Centre Pvt Ltd\t\n\tc) ILS Hospitals, Agartala\t\n\td) Teliamura Subdivision Hospital\t\n\te) District Hospital, North Tripura"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

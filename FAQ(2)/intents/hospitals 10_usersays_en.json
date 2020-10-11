@@ -1,0 +1,32 @@
+[
+  {
+    "id": "510cc918-63fe-4db4-994f-62870541c6cb",
+    "data": [
+      {
+        "text": "Goa",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2e5aec3-69e6-4bb7-bffb-3c3f7561a01f",
+    "data": [
+      {
+        "text": "10",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

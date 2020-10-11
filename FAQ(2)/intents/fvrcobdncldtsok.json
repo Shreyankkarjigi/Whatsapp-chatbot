@@ -1,0 +1,39 @@
+{
+  "id": "e0263ad7-b759-4204-b54a-ca3bd267e359",
+  "parentId": "6a10bf08-a1c6-40a5-9d78-0b6363b86173",
+  "rootParentId": "393e83ae-ba4a-42e6-b9e4-e8b3156390ba",
+  "name": "fvrcobdncldtsok",
+  "auto": true,
+  "contexts": [
+    "fever-no-cough-bodyache-no-cold-no-asktastesmell-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Amill.Amill-yes.Amill-yes-askforfever-no.fever-no-askforcough-no.fever-no-cough-no-askbodyache-no.fever-no-cough-bodyache-no-askcold-no.fever-no-cough-bodyache-no-cold-no-asktastesmell-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Great! Looks like you are perfectly healthy :)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

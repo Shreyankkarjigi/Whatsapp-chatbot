@@ -1,0 +1,35 @@
+{
+  "id": "aa34f85c-9551-4479-8927-0ba24adc0da3",
+  "name": "announcement",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here are the latest announcement:\n\n1.Guidelines for international arrivals(in supersession of guidelines issued on the subject dated 24thMay 2020)(to be operational from00.01 Hrs, 8thAugust 2020)\n\nhttps://static.mygov.in/rest/s3fs-public/mygov_159642595551307401.pdf\n\n2.Kerala:SOP \u0026 Health Advisories for short visit to state.\n\nhttps://static.mygov.in/rest/s3fs-public/mygov_159228223355063671.pdf\n\n3.Karnataka:SOP \u0026 Health Advisories for short visit to state.\n\nhttps://static.mygov.in/rest/s3fs-public/mygov_159229529655063671.pdf"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

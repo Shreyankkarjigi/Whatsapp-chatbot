@@ -1,0 +1,54 @@
+{
+  "id": "de0f1015-7bdc-46c9-87b8-3e2872b9d735",
+  "parentId": "41a428db-9555-4562-8f6e-3fe9cfb16242",
+  "rootParentId": "41a428db-9555-4562-8f6e-3fe9cfb16242",
+  "name": "hospitals 18",
+  "auto": true,
+  "contexts": [
+    "hospitals-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "hospitals.hospitals-custom-4",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "70b9387a-5566-446a-985f-97b25615f0be",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ladakh (Helpline- 01982256462)\n\n\ta) Bogdang Hospital\n\tb) Sonam Norboo Memorial Hospital\n\tc) Medical Sub Centre, Hundri\n\td) Primary Health Center Shakar\n\te) Mahabodhi Karuna Charitable Hospital, Devachan"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

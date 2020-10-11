@@ -1,0 +1,30 @@
+[
+  {
+    "id": "2f912281-d8d2-4d10-acd0-9d00b5e030ff",
+    "data": [
+      {
+        "text": "Andhra Pradesh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd0a940a-0753-40ae-a945-86e60c520f1e",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "96545a77-cec3-477f-beeb-95fb880bef3a",
+    "data": [
+      {
+        "text": "Karnataka",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41195c47-b00d-4fcf-8732-ed36cc84dd5b",
+    "data": [
+      {
+        "text": "16",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

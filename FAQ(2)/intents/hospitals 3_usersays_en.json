@@ -1,0 +1,30 @@
+[
+  {
+    "id": "ef25115e-bff0-4c4e-b181-c1bbc5b5a8f4",
+    "data": [
+      {
+        "text": "Arunachal Pradesh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42d8a7df-2457-4743-8738-45691d8e3a6b",
+    "data": [
+      {
+        "text": "3",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

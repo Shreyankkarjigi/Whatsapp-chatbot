@@ -1,0 +1,30 @@
+[
+  {
+    "id": "b55388b2-63bb-4d02-80ed-6fac8b619daa",
+    "data": [
+      {
+        "text": "Tripura",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "94f89628-a500-46c4-8e8b-47395d1af52f",
+    "data": [
+      {
+        "text": "32",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

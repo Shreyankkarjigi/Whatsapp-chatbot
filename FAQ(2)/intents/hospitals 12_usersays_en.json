@@ -1,0 +1,32 @@
+[
+  {
+    "id": "b91d8d52-4cd2-49c7-973c-0d02efd1e031",
+    "data": [
+      {
+        "text": "Haryana",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "96dfc515-113c-4740-aeed-88d022fc4d32",
+    "data": [
+      {
+        "text": "12",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

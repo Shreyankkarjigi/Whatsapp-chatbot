@@ -1,0 +1,30 @@
+[
+  {
+    "id": "508b22ec-78e9-41d8-961d-e2ee650187de",
+    "data": [
+      {
+        "text": "West Bengal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c4efe26-33e0-4d90-bda3-3d940e03825a",
+    "data": [
+      {
+        "text": "35",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

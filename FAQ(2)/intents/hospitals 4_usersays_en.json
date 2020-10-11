@@ -1,0 +1,45 @@
+[
+  {
+    "id": "fcaa67c7-9738-4ae7-9467-30d2aa20af58",
+    "data": [
+      {
+        "text": " Assam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "354ae132-f331-4cd0-b122-dc23ec1c2218",
+    "data": [
+      {
+        "text": "Assam",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f57da82-864e-49f3-ac19-72ec018d2066",
+    "data": [
+      {
+        "text": "4",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

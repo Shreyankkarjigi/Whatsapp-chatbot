@@ -1,0 +1,54 @@
+{
+  "id": "dd82123d-321d-4e04-9cb4-360c9b62931e",
+  "parentId": "41a428db-9555-4562-8f6e-3fe9cfb16242",
+  "rootParentId": "41a428db-9555-4562-8f6e-3fe9cfb16242",
+  "name": "hospitals 33",
+  "auto": true,
+  "contexts": [
+    "hospitals-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "hospitals.hospitals-custom-3",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "39ac9f2d-f3ea-4015-9fda-2fbe50af78f4",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Uttarakhand (Helpline- 104)\n\n\ta) S.P.S Government Hospital\t\n\tb) Jawahar Lal Nehru District Hospital Rudrapur\t\n\tc) Fortis Escorts Hospital\t\n\td) THE HANS FOUNDATION GENERAL HOSPITAL, SATPULI\t\n\te) Bombay Hospital"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

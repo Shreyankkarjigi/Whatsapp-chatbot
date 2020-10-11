@@ -1,0 +1,40 @@
+{
+  "id": "9924b036-8287-476e-a2d2-c5230bec87be",
+  "parentId": "e2936cb9-9e82-420a-93ad-dc9b78ca45b3",
+  "rootParentId": "393e83ae-ba4a-42e6-b9e4-e8b3156390ba",
+  "name": "vomystes",
+  "auto": true,
+  "contexts": [
+    "fvryscysbysvitsysbiyscpysvom-followup",
+    "vom-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Amill.Amill-yes.Amill-yes-yes.Amill-yes-yes-yes.cough-yes-askforbodyache-yes.fever-yes-cough-yes-bodyache-yes-viral-askfortastesmell-yes.fever-yes-cough-yes-bodyache-yes-viral-tastesmell-yes-askforbreathing-yes.fvryscysbysvitsysbiyscp-yes.vom-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Looks like your symptoms match to that of covid.It is recommended to get tested in nearby testing facility."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

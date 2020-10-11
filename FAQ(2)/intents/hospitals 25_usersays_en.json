@@ -1,0 +1,32 @@
+[
+  {
+    "id": "078fd482-6849-4875-96c8-bf27d7ae8d34",
+    "data": [
+      {
+        "text": "Odisha",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91385cd4-814e-4c9d-8708-24708c1f2c3d",
+    "data": [
+      {
+        "text": "25",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

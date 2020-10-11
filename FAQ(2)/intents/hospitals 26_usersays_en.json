@@ -1,0 +1,30 @@
+[
+  {
+    "id": "65119184-15b1-4125-a31a-82e83a483fe2",
+    "data": [
+      {
+        "text": "Puducherry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a253ecfb-8d9d-4130-9bc7-ac4251336a31",
+    "data": [
+      {
+        "text": "26",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

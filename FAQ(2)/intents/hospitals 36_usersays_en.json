@@ -1,0 +1,32 @@
+[
+  {
+    "id": "a38db59a-cb74-487b-bbc9-a9d5f0ebbf99",
+    "data": [
+      {
+        "text": "Lakshadweep",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "34f1e445-a115-4f03-9995-f1d441fd4920",
+    "data": [
+      {
+        "text": "36",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "f86447b4-3ea7-4a72-8e2d-dc1c416ee22e",
+  "parentId": "a9e6c246-c4bf-4c61-8ca7-2682c4ed7498",
+  "rootParentId": "393e83ae-ba4a-42e6-b9e4-e8b3156390ba",
+  "name": "fvrycoyboysvrlts",
+  "auto": true,
+  "contexts": [
+    "Amill-yes-yes-yes-followup",
+    "cough-yes-askforbodyache-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Amill.Amill-yes.Amill-yes-yes.Amill-yes-yes-yes.cough-yes-askforbodyache-yes",
+      "affectedContexts": [
+        {
+          "name": "fever-yes-cough-yes-bodyache-yes-viral-askfortastesmell-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Your initial symptoms point towards normal viral but just to be sure i will be asking few more questions\n\nDo you have lack of taste or smell ?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

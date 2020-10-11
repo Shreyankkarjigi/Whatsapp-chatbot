@@ -1,0 +1,32 @@
+[
+  {
+    "id": "4b931ccb-6fa2-49df-9d1f-1cae9a63988d",
+    "data": [
+      {
+        "text": "Meghalaya",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39ba4342-8af9-49c3-a6e6-78545f4b7f30",
+    "data": [
+      {
+        "text": "22",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

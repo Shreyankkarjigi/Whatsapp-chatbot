@@ -1,0 +1,32 @@
+[
+  {
+    "id": "4135831a-26e8-4e02-ac09-2b4f6a7774af",
+    "data": [
+      {
+        "text": "Chhattisgarh",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2ee2ca80-faab-4407-b2f7-c3fe36d48bcc",
+    "data": [
+      {
+        "text": "6",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

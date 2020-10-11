@@ -1,0 +1,41 @@
+[
+  {
+    "id": "7703dff4-651d-49b9-a159-7c9f2ee9a9ba",
+    "data": [
+      {
+        "text": "news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab03d314-06fc-4020-95ec-15e095829e34",
+    "data": [
+      {
+        "text": "Tell me the latest announcement",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64903c18-f6ab-42a1-bf71-fb413e712202",
+    "data": [
+      {
+        "text": "Announcement",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "id": "a9e6c246-c4bf-4c61-8ca7-2682c4ed7498",
+  "parentId": "d19a13ed-380a-4c0a-a4dc-f680bec81774",
+  "rootParentId": "393e83ae-ba4a-42e6-b9e4-e8b3156390ba",
+  "name": "fvrycoysbdac",
+  "auto": true,
+  "contexts": [
+    "Amill-yes-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Amill.Amill-yes.Amill-yes-yes.Amill-yes-yes-yes",
+      "affectedContexts": [
+        {
+          "name": "Amill-yes-yes-yes-followup",
+          "lifespan": 2
+        },
+        {
+          "name": "cough-yes-askforbodyache-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Does your body ache or do you feel tired?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

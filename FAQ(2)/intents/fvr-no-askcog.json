@@ -1,0 +1,45 @@
+{
+  "id": "388ae3c9-10d6-4179-9f6d-a18bb28782c1",
+  "parentId": "fb7b6ca9-ee5b-4b9f-a856-cf24ee48ac0b",
+  "rootParentId": "393e83ae-ba4a-42e6-b9e4-e8b3156390ba",
+  "name": "fvr-no-askcog",
+  "auto": true,
+  "contexts": [
+    "Amill-yes-followup",
+    "Amill-yes-askforfever-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Amill.Amill-yes.Amill-yes-askforfever-no",
+      "affectedContexts": [
+        {
+          "name": "fever-no-askforcough-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Do you have cough?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

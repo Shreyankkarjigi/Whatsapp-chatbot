@@ -1,0 +1,35 @@
+{
+  "id": "c0cab783-130e-4579-866e-f044fed0bc5e",
+  "name": "prevent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Protect yourself and others around you by knowing the facts and taking appropriate precautions. Follow advice provided by your local public health agency:\n*To prevent the spread of COVID-19:*\n\n1.Clean your hands often. Use soap and water, or an alcohol-based hand rub.\n2.Maintain a safe distance from anyone who is coughing or sneezing.\n3.Don’t touch your eyes, nose or mouth.\n4.Cover your nose and mouth with your bent elbow or a tissue when you cough or sneeze.\n5.Stay home if you feel unwell.\n\n*If you have a fever, cough and difficulty breathing, seek medical attention. Call in advance.*\n*Follow the directions of your local health authority.*\n*Avoiding unneeded visits to medical facilities allows healthcare systems to operate more effectively, therefore protecting you and others.*\n\nReply with *Menu* to go back to main menu or reply with *Stop* to stop chat."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

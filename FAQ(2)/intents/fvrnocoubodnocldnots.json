@@ -1,0 +1,44 @@
+{
+  "id": "6a10bf08-a1c6-40a5-9d78-0b6363b86173",
+  "parentId": "3a1ba12e-6f15-4ff4-8198-9c103c44cd41",
+  "rootParentId": "393e83ae-ba4a-42e6-b9e4-e8b3156390ba",
+  "name": "fvrnocoubodnocldnots",
+  "auto": true,
+  "contexts": [
+    "fever-no-cough-bodyache-no-askcold-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Amill.Amill-yes.Amill-yes-askforfever-no.fever-no-askforcough-no.fever-no-cough-no-askbodyache-no.fever-no-cough-bodyache-no-askcold-no",
+      "affectedContexts": [
+        {
+          "name": "fever-no-cough-bodyache-no-cold-no-asktastesmell-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Do you have lack of taste and smell?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

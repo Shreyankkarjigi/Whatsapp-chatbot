@@ -1,0 +1,37 @@
+{
+  "id": "fd66a79d-430b-4765-8219-a77063c518db",
+  "name": "faq",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "*What is corona virus*\nAns:Corona viruses are a large family of viruses which may cause illness in  animals  or  humans.   In  humans,  several  coronaviruses  are  known to cause respiratory infections ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS) and  Severe  Acute  Respiratory  Syndrome  (SARS). The  most  recently discovered coronavirus causes coronavirus disease COVID-19.\n\n*What is COVID-19*\nAns:COVID-19  is  the  infectious  disease  caused  by  the  most  recently discovered  corona  virus.  This  new  virus  and  disease  were  unknown before the outbreak began in Wuhan, China, in December 2019.\n\n*What are the symptoms of COVID-19*\nAns:The  most  common  symptoms  of  COVID-19  are  fever,  tiredness,  and dry   cough.   Some   patients   may   have   aches   and   pains, nasal congestion, runny nose, sore throat or diarrhea. These symptoms are usually  mild  and  begin  gradually.  Some  people  become  infected  but don’t  develop  any  symptoms  and  don\u0027t  feel  unwell.  Most  people (about   80%)   recover   from   the   disease   without   needing   special treatment.  Around  1  out  of  every  6  people  who  gets COVID-19 becomes  seriously  ill  and  develops  difficulty  breathing.  Older  people, and those with underlying medical problems like high blood pressure, heart problems or diabetes, are more likely to develop serious illness. People with fever, cough and difficulty breathing should seek medical attention.\n\nReply with *Faq* to know more , Source- World Health Organization.",
+            "*Do vaccines against pneumonia protect you against the new coronavirus?*\n\nAns: No. Vaccines against pneumonia, such as pneumococcal vaccine and Haemophilus influenza type B (Hib) vaccine, do not provide protection against the new coronavirus.\n\nThe virus is so new and different that it needs its own vaccine. Researchers are trying to develop a vaccine against 2019-nCoV, and WHO is supporting their efforts.\n\nAlthough these vaccines are not effective against 2019-nCoV, vaccination against respiratory illnesses is highly recommended to protect your health.\n\n\n*Can regularly rinsing your nose with saline help prevent infection with the new coronavirus?*\n\nAns:No. There is no evidence that regularly rinsing the nose with saline has protected people from infection with the new coronavirus. \n\nThere is some limited evidence that regularly rinsing nose with saline can help people recover more quickly from the common cold. However, regularly rinsing the nose has not been shown to prevent respiratory infections\n\n\n*Can eating garlic help prevent infection with the new coronavirus?*\n\nAns:Garlic is a healthy food that may have some antimicrobial properties. However, there is no evidence from the current outbreak that eating garlic has protected people from the new coronavirus.\n\nType *faq* again for more, Source - World Health Organization",
+            "*Are Vegetarians Safe from the Coronavirus?*\n\nAns:No report by the WHO has no mention of such a claim. Dr Sumit Ray, critical care specialist at Artemis Hospitals, told FIT that being vegetarian or non-vegetarian is inconsequential, and not a criterion the WHO has based its tests on.\n\n\n*Does the new coronavirus affect older people, or are younger people also susceptible?*\n\nAns:People of all ages can be infected by the new coronavirus (2019-nCoV). Older people, and people with pre-existing medical conditions (such as asthma, diabetes, heart disease) appear to be more vulnerable to becoming severely ill with the virus. \n\nWHO advises people of all ages to take steps to protect themselves from the virus, for example by following good hand hygiene and good respiratory hygiene. \n\n\n*Are antibiotics effective in preventing and treating the new coronavirus?*\n\nAns:No, antibiotics do not work against viruses, only bacteria.\n\nThe new coronavirus (2019-nCoV) is a virus and, therefore, antibiotics should not be used as a means of prevention or treatment.\n\nHowever, if you are hospitalized for the 2019-nCoV, you may receive antibiotics because bacterial co-infection is possible.\n\nReply with *faq* to know more,Source-World Health Organization."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

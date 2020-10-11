@@ -1,0 +1,30 @@
+[
+  {
+    "id": "5978fab9-7d0d-4e68-8f9c-e2380aceb20a",
+    "data": [
+      {
+        "text": "Andaman \u0026 Nicobar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "142c2a89-86f4-4ab7-adc1-f0f16c938b75",
+    "data": [
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

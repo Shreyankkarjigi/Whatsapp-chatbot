@@ -1,0 +1,48 @@
+{
+  "id": "fb7b6ca9-ee5b-4b9f-a856-cf24ee48ac0b",
+  "parentId": "393e83ae-ba4a-42e6-b9e4-e8b3156390ba",
+  "rootParentId": "393e83ae-ba4a-42e6-b9e4-e8b3156390ba",
+  "name": "yes-ask fvr",
+  "auto": true,
+  "contexts": [
+    "Amill-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Amill.Amill-yes",
+      "affectedContexts": [
+        {
+          "name": "Amill-yes-followup",
+          "lifespan": 2
+        },
+        {
+          "name": "Amill-yes-askforfever-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Do you have fever ?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

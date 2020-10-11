@@ -1,0 +1,32 @@
+[
+  {
+    "id": "7fab9749-ee05-453f-b1cd-8384ab6d93eb",
+    "data": [
+      {
+        "text": "Manipur",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b819380f-fa29-46a1-868a-65eabd8ab9f5",
+    "data": [
+      {
+        "text": "21",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

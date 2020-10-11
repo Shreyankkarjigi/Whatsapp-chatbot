@@ -1,0 +1,54 @@
+{
+  "id": "d19f6104-d23c-4909-ae1c-b7c5bc3abf5b",
+  "parentId": "41a428db-9555-4562-8f6e-3fe9cfb16242",
+  "rootParentId": "41a428db-9555-4562-8f6e-3fe9cfb16242",
+  "name": "hospitals 26",
+  "auto": true,
+  "contexts": [
+    "hospitals-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "hospitals.hospitals-custom-4",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "974a8f37-a7ab-4e17-9fab-fbfae0129717",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Puducherry (Helpline- 104)\n\n\ta) PIMS\t\n\tb) East Coast Hospitals, Pichaiveerapatnam\t\n\tc) East Coast Hospitals, MG road\t\n\td) A.G. Padmavati\u0027s Hospital Ltd\t\n\te) JIPMER"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

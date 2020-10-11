@@ -1,0 +1,28 @@
+[
+  {
+    "id": "b195c576-148e-4e22-abc5-536f74ba47ef",
+    "data": [
+      {
+        "text": "what are the symptoms?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a8084e2-69d5-4c69-b8ec-4577e0510af9",
+    "data": [
+      {
+        "text": "symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

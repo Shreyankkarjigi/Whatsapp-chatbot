@@ -1,0 +1,35 @@
+{
+  "id": "1054391d-b4ad-49d2-8874-a6cf639890ee",
+  "name": "credits",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "*Myths*:\n\nWorld health organization:\nhttps://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters\n\n*Covid 19 tracker*:\n\nhttps://www.covid19india.org/about\n\n*Developer*:\n\nShreyank Karjigi\nhttps://github.com/Shreyankkarjigi\n\n*Contributers*:\n\nViraj Kotian\n\n\n*Libraries used*:\n\n*Twilio*:https://www.twilio.com/console\n\n*Python*:https://www.python.org/about/\n\n*Heroku*:https://www.heroku.com/about\n\n*Sandbox*:https://www.twilio.com/console/sms/whatsapp/sandbox"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

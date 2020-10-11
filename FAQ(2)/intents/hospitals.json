@@ -1,0 +1,40 @@
+{
+  "id": "41a428db-9555-4562-8f6e-3fe9cfb16242",
+  "name": "hospitals",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "hospitals-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Reply with number corresponding to your state.\n\n1. Andaman \u0026 Nicobar Islands\n2. Andhra Pradesh\n3. Arunachal Pradesh\n4. Assam\n5. Bihar\n6. Chhattisgarh\n7. Chandigarh\n8. Delhi\n9. Dadar \u0026 Nagar Haveli And Damand \u0026 Diu\t\n10. Goa\n11. Gujarat\n12. Haryana\n13. Himachal Pradesh\n14. Jammu And Kashmir\n15. Jharkhand\n16. Karnataka\n17. Kerala\n18. Ladakh\n19. Madhya Pradesh\n20. Maharashtra\n21. Manipur\n22. Meghalaya\n23. Mizoram\n24. Nagaland\n25. Odisha\n26. Puducherry\n27. Punjab\n28. Rajasthan \n29. Sikkim\n30. Tamil Nadu\n31. Telangana\n32. Tripura \n33. Uttarakhand\n34. Uttar Pradesh\n35. West Bengal\n\nTo go back to main menu reply with *menu*"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

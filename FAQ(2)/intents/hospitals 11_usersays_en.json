@@ -1,0 +1,32 @@
+[
+  {
+    "id": "637e9132-09df-422d-837f-14ef5a7c87b2",
+    "data": [
+      {
+        "text": "Gujarat",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62c5fcc6-d210-4ee4-826d-6638e5f45063",
+    "data": [
+      {
+        "text": "11",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

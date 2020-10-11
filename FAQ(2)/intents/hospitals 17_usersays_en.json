@@ -1,0 +1,32 @@
+[
+  {
+    "id": "af034a58-2b91-44c9-b645-ffad7e6fea0f",
+    "data": [
+      {
+        "text": "Kerala",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be41f812-96e7-4dd2-9f1d-4f3f6ce89a1c",
+    "data": [
+      {
+        "text": "17",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

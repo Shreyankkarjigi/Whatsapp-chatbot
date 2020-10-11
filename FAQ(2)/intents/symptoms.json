@@ -1,0 +1,35 @@
+{
+  "id": "8b429500-ff94-4de1-9d04-853cd2cf8381",
+  "name": "symptoms",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "*Most common symptoms of covid 19 include:*\n\n1.Fever\n2.Dry cough\n3.Tiredness\n\n*Less common symptoms:*\n\n1.Aches and pains\n2.Sore throat\n3.Diarrhoea\n4.Conjunctivitis\n5.Headache\n6.Loss of taste or smell\n7.A rash on skin, or discolouration of fingers or toes.\n\n*Serious symptoms:*\n\n1.Difficulty breathing or shortness of breath\n2.Chest pain or pressure\n3.Loss of speech or movement.\n\n*Note*:-Some of the said symptoms may cross with other common illness such as cold, cough etc and not neccessary be related to covid 19.\n\n*Seek immediate medical attention if you have serious symptoms*\n*Always call before visiting your doctor or health facility*\n\n*People with mild symptoms who are otherwise healthy should manage their symptoms at home.*\n\n*On average it takes 5–6 days from when someone is infected with the virus for symptoms to show, however it can take up to 14 days.*\n\nReply with *Menu* to go back to main menu."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

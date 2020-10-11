@@ -1,0 +1,30 @@
+[
+  {
+    "id": "b974a5be-58ea-4bf9-b074-892420d938da",
+    "data": [
+      {
+        "text": "Bihar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6004ec3f-a05d-40c8-bcc3-c1f9c7de297c",
+    "data": [
+      {
+        "text": "5",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "id": "01b87444-5615-4257-a9a0-7da0431c22ae",
+  "name": "donate",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here are some of NGO\u0027s that you can donate to:\n\n1.Give India\nhttps://indiafightscorona.giveindia.org/?utm_source\u003dsubs_homepage_desktop\n\n2.Goonj\nhttps://goonj.org/support-covid-19-affected\n\n3.Sharnarthi Sewa\nhttps://sharnarthisewa.org/\n\n4.Uttishtha Foundation\nhttps://www.saathire.com/PIG/uttishtha-foundation/\n\n5.Khushiyaan Foundation\nhttp://www.khushiyaanfoundation.org/"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

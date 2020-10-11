@@ -1,0 +1,32 @@
+[
+  {
+    "id": "d42f23a6-e172-4bfd-ac88-19c7b9f5e60e",
+    "data": [
+      {
+        "text": "Rajasthan",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9927dd44-9f02-4349-959b-169c61d9bdf6",
+    "data": [
+      {
+        "text": "28",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

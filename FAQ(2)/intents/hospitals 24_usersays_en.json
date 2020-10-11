@@ -1,0 +1,32 @@
+[
+  {
+    "id": "5887b9ea-eefe-4124-a772-a053b144beb1",
+    "data": [
+      {
+        "text": "Nagaland",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "58394916-f1b2-4646-a77a-e4f7f9a4d1dc",
+    "data": [
+      {
+        "text": "24",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

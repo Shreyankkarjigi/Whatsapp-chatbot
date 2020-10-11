@@ -1,0 +1,30 @@
+[
+  {
+    "id": "5564fc3b-7478-4793-aeb4-489cb2db9487",
+    "data": [
+      {
+        "text": "Telangana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cf096201-ea24-4368-8b19-55acf535b0e4",
+    "data": [
+      {
+        "text": "31",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

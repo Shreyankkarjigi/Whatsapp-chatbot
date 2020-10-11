@@ -1,0 +1,30 @@
+[
+  {
+    "id": "8903d367-8bf4-480e-a9bf-b880f829dc6d",
+    "data": [
+      {
+        "text": "Uttar Pradesh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2815a05e-637e-4f0e-9cbd-4eaf5812e3bd",
+    "data": [
+      {
+        "text": "34",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

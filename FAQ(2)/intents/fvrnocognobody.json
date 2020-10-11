@@ -1,0 +1,44 @@
+{
+  "id": "788a6058-c38a-4476-8918-50f5e74bf428",
+  "parentId": "388ae3c9-10d6-4179-9f6d-a18bb28782c1",
+  "rootParentId": "393e83ae-ba4a-42e6-b9e4-e8b3156390ba",
+  "name": "fvrnocognobody",
+  "auto": true,
+  "contexts": [
+    "fever-no-askforcough-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Amill.Amill-yes.Amill-yes-askforfever-no.fever-no-askforcough-no",
+      "affectedContexts": [
+        {
+          "name": "fever-no-cough-no-askbodyache-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Do you have body ache?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
