@@ -1,0 +1,44 @@
+{
+  "id": "3c88d4c2-7654-4f03-8fa6-01b26ef76af6",
+  "parentId": "ab16588c-70ea-4031-8eb6-29dd91c3f803",
+  "rootParentId": "1f8341a6-a2cd-4650-aa13-08c7d2d5e252",
+  "name": "Q4(Right answer)-askQ5",
+  "auto": true,
+  "contexts": [
+    "Q3Rightanswer-askQ4-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "trivia.trivia-yes.AskQ1-no.Q1-noRightanswer-askQ2-yes.Q2Rightanswer-askQ3-no.Q3Rightanswer-askQ4-yes",
+      "affectedContexts": [
+        {
+          "name": "Q4Rightanswer-askQ5-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Correct answer! Here is next question\nWearing masks in public places prevents covid?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

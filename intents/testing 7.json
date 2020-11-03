@@ -1,0 +1,39 @@
+{
+  "id": "b89cac2a-7d1b-4651-a8a4-b7fb1f51c1f0",
+  "parentId": "da6a39e3-2b83-49c5-a12c-23bb83cccb93",
+  "rootParentId": "da6a39e3-2b83-49c5-a12c-23bb83cccb93",
+  "name": "testing 7",
+  "auto": true,
+  "contexts": [
+    "testingcen-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "testingcen.testingcen-custom-7",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "1.All India Institute Medical Sciences \n2.Lady Hardinge Medical College \n3.National Centre for Disease Control\n4.Ram Manohar Lohia Hospital\n5.Institute of Liver \u0026 BiliarySciences"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

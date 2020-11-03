@@ -1,0 +1,44 @@
+{
+  "id": "ab16588c-70ea-4031-8eb6-29dd91c3f803",
+  "parentId": "92e3d44c-61a5-4088-9cb3-05938e6e45b1",
+  "rootParentId": "1f8341a6-a2cd-4650-aa13-08c7d2d5e252",
+  "name": "Q3(Right answer)-askQ4",
+  "auto": true,
+  "contexts": [
+    "Q2Rightanswer-askQ3-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "trivia.trivia-yes.AskQ1-no.Q1-noRightanswer-askQ2-yes.Q2Rightanswer-askQ3-no",
+      "affectedContexts": [
+        {
+          "name": "Q3Rightanswer-askQ4-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Correct answer!Here is next question\nwashing hands with soap protect you from covid?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

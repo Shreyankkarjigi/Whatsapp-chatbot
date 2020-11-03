@@ -1,0 +1,39 @@
+{
+  "id": "737cb4ab-2a96-4328-a931-f3dfba5a170b",
+  "parentId": "da6a39e3-2b83-49c5-a12c-23bb83cccb93",
+  "rootParentId": "da6a39e3-2b83-49c5-a12c-23bb83cccb93",
+  "name": "testing9",
+  "auto": true,
+  "contexts": [
+    "testingcen-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "testingcen.testingcen-custom-9",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "1.Goa Medical College, Goa\n2.TrueNat150.North District Hospital, Mapusa\n3.Subdistrict Hospital, Ponda\n4.South Goa District Hospital (Hospicio Hospital), Margao\n5.Sub-District Hospital, Chicalim, Vasco Da Gama"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

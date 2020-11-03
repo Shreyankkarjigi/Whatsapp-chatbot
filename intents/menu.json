@@ -1,0 +1,35 @@
+{
+  "id": "43ac8d2d-1d9a-48d1-bd37-b1880d357e0b",
+  "name": "menu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "*Welcome to Covid 19 Chatbot for India.*\n\nReply with corresponding codes to view more information:\n\n*Basic operations*\n1.View myths-reply with *myths*.\n2.Frequently asked questions-reply with *faq*.\n3.Know the symptoms-reply with *check*.\n4.Know how to prevent getting covid-reply with *prevent*.\n5.Donate to Ngo-reply with *donate*\n6.View current case count- reply with *tracker*.\n7.To view helpline number-reply with *helplines*\n8.To view latest Announcements - reply with *announcements*\n9.To view the creators behind this project-reply with *creators*\n\n*Advanced features*\n1.Diagnose yourself-reply with *am ill*\n2.Find your nearby hospital-reply with *hosp*\n3.Find your nearby testing centre-reply with*test*\n4.Want to test your covid knowledge? Play a simple trivia-reply with*trivia*\n\nTo view this menu at any point during the conversation reply with *Menu*\n\nTo stop/deactivate the project reply with *Stop*."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

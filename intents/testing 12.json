@@ -1,0 +1,39 @@
+{
+  "id": "060aaa39-eea9-40d3-ab70-c0ea308f6d97",
+  "parentId": "da6a39e3-2b83-49c5-a12c-23bb83cccb93",
+  "rootParentId": "da6a39e3-2b83-49c5-a12c-23bb83cccb93",
+  "name": "testing 12",
+  "auto": true,
+  "contexts": [
+    "testingcen-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "testingcen.testingcen-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "1.Govt. Medical College, Jammu\n2.Command Hospital (NC) Udhampur\n3.Sher-i-Kashmir Institute of Medical Sciences, Srinagar\n4.Govt. Medical College, Srinagar\n5.Sheri Kashmir Institute of Medical Science Medical College, Bemina, Srinagar"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

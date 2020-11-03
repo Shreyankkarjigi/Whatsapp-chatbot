@@ -1,0 +1,39 @@
+{
+  "id": "83155d0b-a237-433e-a0f6-1f27aef2713f",
+  "parentId": "da6a39e3-2b83-49c5-a12c-23bb83cccb93",
+  "rootParentId": "da6a39e3-2b83-49c5-a12c-23bb83cccb93",
+  "name": "testing31",
+  "auto": true,
+  "contexts": [
+    "testingcen-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "testingcen.testingcen-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "1.ICMR-National Institute of Cholera \u0026 Enteric Diseases, Kolkata\n2.Institute of Post Graduate Medical Education \u0026 Research, Kolkata600.Midnapore Medical College, Midnapore\n3.North Bengal Medical College, Darjeeling\n4.School of Tropical Medicine, Kolkata\n5.Malda Medical College \u0026 Hospital, Malda"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

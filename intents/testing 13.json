@@ -1,0 +1,39 @@
+{
+  "id": "0ee38e6b-de31-4b6f-9afb-6e40c106308e",
+  "parentId": "da6a39e3-2b83-49c5-a12c-23bb83cccb93",
+  "rootParentId": "da6a39e3-2b83-49c5-a12c-23bb83cccb93",
+  "name": "testing 13",
+  "auto": true,
+  "contexts": [
+    "testingcen-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "testingcen.testingcen-custom-3",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "1.MGM Medical College \u0026 Hospital, Jamshedpur\n2.Rajendra Institute of Medical Sciences, Ranchi\n3.Patliputra Medical College \u0026 Hospital, Dhanbad\n4.Itki Aarogyashala, Ranch"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

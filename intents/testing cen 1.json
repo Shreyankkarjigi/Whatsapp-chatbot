@@ -1,0 +1,39 @@
+{
+  "id": "72a644d2-19b5-45be-99fe-07713d270d7c",
+  "parentId": "da6a39e3-2b83-49c5-a12c-23bb83cccb93",
+  "rootParentId": "da6a39e3-2b83-49c5-a12c-23bb83cccb93",
+  "name": "testing cen 1",
+  "auto": true,
+  "contexts": [
+    "testingcen-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "testingcen.testingcen-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "1.Sri Venkateswara Institute of Medical Sciences, Tirupati\n2.Sri Venkateswara Medical College, Tirupati\n3.Manipal Hospital, Tadepalli, Guntur\n4.PathGene Health Care Pvt Ltd#2ndFloor, Srinivasapuram, Tiruchanoor Road, Opp LV kayanamandapam, Tirupathi\n5.Apollo Health and Lifestyle Ltd, Vijayawada Diagnostics Lab, 40-5-6, Parmeshwara Complex, Tikkle Road, Vijayawada"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "6a087406-e726-4bfa-89da-ceee0caa497f",
+  "parentId": "1f8341a6-a2cd-4650-aa13-08c7d2d5e252",
+  "rootParentId": "1f8341a6-a2cd-4650-aa13-08c7d2d5e252",
+  "name": "trivia-askifintrested - no",
+  "auto": true,
+  "contexts": [
+    "trivia-followup",
+    "trivia-askifintrested-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "trivia-askifintrested.trivia-askifintrested-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Well okay :("
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

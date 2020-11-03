@@ -1,0 +1,39 @@
+{
+  "id": "6f5eba71-074d-4006-8932-25938cf3c936",
+  "parentId": "51f40fba-bae5-4f27-8d60-d22f01272e24",
+  "rootParentId": "1f8341a6-a2cd-4650-aa13-08c7d2d5e252",
+  "name": "Q6(Wrong answer)-end",
+  "auto": true,
+  "contexts": [
+    "Q5Wronganswer-AskQ6-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "trivia.trivia-yes.triviauserisintrestedAskQ1-yes.Q1-yes-wrongansaskQ2-no.Q2Wronganswer-AskQ3-yes.Q3Wronganswer-AskQ4-no.Q4Wronganswer-AskQ5-no.Q5Wronganswer-AskQ6-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Wrong answer.Thank you for playing trivia,hope you learnt something new today."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

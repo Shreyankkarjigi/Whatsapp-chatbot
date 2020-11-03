@@ -1,0 +1,44 @@
+{
+  "id": "5cb8a191-32dd-425e-8863-cd66dc5bd494",
+  "parentId": "3bc224f4-9e7d-4bce-a3aa-f2dc27a7d084",
+  "rootParentId": "1f8341a6-a2cd-4650-aa13-08c7d2d5e252",
+  "name": "Q2 (Wrong answer)-Ask Q3",
+  "auto": true,
+  "contexts": [
+    "Q1-yes-wrongansaskQ2-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "trivia.trivia-yes.triviauserisintrestedAskQ1-yes.Q1-yes-wrongansaskQ2-no",
+      "affectedContexts": [
+        {
+          "name": "Q2Wronganswer-AskQ3-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Oops that\u0027s a wrong answer.Here is next question\nDo every positive patient show symptoms?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

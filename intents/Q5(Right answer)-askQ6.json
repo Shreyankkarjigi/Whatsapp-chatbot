@@ -1,0 +1,44 @@
+{
+  "id": "e20dd14b-619e-41af-a4ed-f83ab7cf17e4",
+  "parentId": "3c88d4c2-7654-4f03-8fa6-01b26ef76af6",
+  "rootParentId": "1f8341a6-a2cd-4650-aa13-08c7d2d5e252",
+  "name": "Q5(Right answer)-askQ6",
+  "auto": true,
+  "contexts": [
+    "Q4Rightanswer-askQ5-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "trivia.trivia-yes.AskQ1-no.Q1-noRightanswer-askQ2-yes.Q2Rightanswer-askQ3-no.Q3Rightanswer-askQ4-yes.Q4Rightanswer-askQ5-yes",
+      "affectedContexts": [
+        {
+          "name": "Q5Rightanswer-askQ6-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Correct answer!Here is next question\nIs there a vaccine for covid 19 right now?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

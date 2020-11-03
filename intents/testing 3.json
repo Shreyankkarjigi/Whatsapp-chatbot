@@ -1,0 +1,39 @@
+{
+  "id": "5ea16fa0-4c68-45f0-8f77-3d1ea99588c3",
+  "parentId": "da6a39e3-2b83-49c5-a12c-23bb83cccb93",
+  "rootParentId": "da6a39e3-2b83-49c5-a12c-23bb83cccb93",
+  "name": "testing 3",
+  "auto": true,
+  "contexts": [
+    "testingcen-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "testingcen.testingcen-custom-3",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "1.Gauhati Medical College, Guwahati\n2.ICMR-Regional Medical Research Center, Dibrugarh \n3.Jorhat Medical College, Jorhat\n4.SilcharMedical College, Silchar\n5.Ultracare Diagnostic Centre, Dept of Lab Services, Ashok Path, Survey, Beltola, Guwahati"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "6b53e256-8bce-46e3-94f6-c239ca5214d2",
+  "parentId": "da6a39e3-2b83-49c5-a12c-23bb83cccb93",
+  "rootParentId": "da6a39e3-2b83-49c5-a12c-23bb83cccb93",
+  "name": "testing 4",
+  "auto": true,
+  "contexts": [
+    "testingcen-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "testingcen.testingcen-custom-4",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "1.ICMR-Rajendra Memorial Research Institute of Medical Sciences, Patna\n 2.Indira Gandhi Institute Medical Sciences, Patna\n3.Patna Medical College, Patna69.Darbhanga Medical College, Darbhanga\n4.SKMCH, Muzaffarpur\n5.All India Institute of Medical Sciences, Patna"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

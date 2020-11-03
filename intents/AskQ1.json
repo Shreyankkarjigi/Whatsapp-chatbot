@@ -1,0 +1,48 @@
+{
+  "id": "d7b83641-8471-495f-bc48-0defa71b0b02",
+  "parentId": "1f8341a6-a2cd-4650-aa13-08c7d2d5e252",
+  "rootParentId": "1f8341a6-a2cd-4650-aa13-08c7d2d5e252",
+  "name": "AskQ1",
+  "auto": true,
+  "contexts": [
+    "trivia-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "trivia.trivia-yes",
+      "affectedContexts": [
+        {
+          "name": "triviauserisintrestedAskQ1-followup",
+          "lifespan": 2
+        },
+        {
+          "name": "AskQ1-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Great!Here is question 1\nCovid virus spreads through dirty water?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

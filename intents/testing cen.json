@@ -1,0 +1,40 @@
+{
+  "id": "da6a39e3-2b83-49c5-a12c-23bb83cccb93",
+  "name": "testing cen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "testingcen-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Reply with number corresponding to your state.\n\n1.\tAndhra Pradesh\n2.\tArunachal Pradesh\n3.\tAssam\n4.\tBihar\n5.\tChandigarh\n6.\tChhattisgarh\n7.\tDelhi\n8.\tGujarat\n9.\tGoa\n10.\tHaryana\n11.\tHimachal Pradesh\n12.\tJammu \u0026 Kashmir\n13.\tJharkhand\n14.\tKarnataka\n15.\tKerala\n16.\tMaharashtra\n17.\tMadhya Pradesh\n18.\tManipur\n19.\tMeghalaya\n20.\tMizoram\n21.\tNagaland\n22.\tOdisha\n23.\tPuducherry\n24.\tPunjab\n25.\tRajasthan\n26.\tTamil Nadu\n27.\tTelangana\n28.\tTripura\n29.\tUttar Pradesh\n30.\tUttarakhand\n31.\tWest Bengal\n32.\tLeh-Ladakh\n\n\nTo go back to main menu reply with *menu*"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "8e7ebd89-a0e0-4602-a962-4065328e5efb",
+  "parentId": "da6a39e3-2b83-49c5-a12c-23bb83cccb93",
+  "rootParentId": "da6a39e3-2b83-49c5-a12c-23bb83cccb93",
+  "name": "testing 17",
+  "auto": true,
+  "contexts": [
+    "testingcen-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "testingcen.testingcen-custom-4",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "1.All India Institute of Medical Sciences, Bhopal\n2.ICMR-National Institute for Research on Tribal Health, Jabalpur\n3.Mahatma Gandhi Memorial Medical College, Indore\n4.Gandhi Medical College, Bhopal\n5.Bhopal Memorial Hospital \u0026 research Centre, Bhopal"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

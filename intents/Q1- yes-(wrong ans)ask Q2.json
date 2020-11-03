@@ -1,0 +1,44 @@
+{
+  "id": "3bc224f4-9e7d-4bce-a3aa-f2dc27a7d084",
+  "parentId": "d7b83641-8471-495f-bc48-0defa71b0b02",
+  "rootParentId": "1f8341a6-a2cd-4650-aa13-08c7d2d5e252",
+  "name": "Q1- yes-(wrong ans)ask Q2",
+  "auto": true,
+  "contexts": [
+    "triviauserisintrestedAskQ1-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "trivia.trivia-yes.triviauserisintrestedAskQ1-yes",
+      "affectedContexts": [
+        {
+          "name": "Q1-yes-wrongansaskQ2-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Opps!That\u0027s a wrong answer,Covid-19 is mainly transmitted through droplets that come from your mouth and nose when you cough or breathe out.\nNo worries here is next question:\nCough, fever, tiredness are symptoms of covid?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
